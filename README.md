@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=ChoHyeRyung%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=ChoHyeRyung&fontSize=90)
 #### ᕼEᒪᒪO, Welcome To my github
 #### A passionate web developer from Korea
 
