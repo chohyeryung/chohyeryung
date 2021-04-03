@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=350&section=header&text=Cho%Hye%Ryung&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=350&section=header&text=Cho Hye Ryung&fontSize=80)
 
 
 
