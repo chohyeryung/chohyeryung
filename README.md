@@ -2,8 +2,7 @@
 #### ᕼEᒪᒪO, Welcome To my github
 #### A passionate web developer from Korea
 
-![ChoHyeRyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=chohyeryung&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+![ChoHyeRyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=chohyeryung&show_icons=true&theme=merko)
 
 ### 🌱 I’m currently learning 
 
