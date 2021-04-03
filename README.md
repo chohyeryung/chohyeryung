@@ -2,6 +2,8 @@
 #### ᕼEᒪᒪO, Welcome To my github
 #### A passionate web developer from Korea
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chohyeryung)](https://github.com/chohyeryung/github-readme-stats)
+
 ### 🌱 I’m currently learning 
 
 
