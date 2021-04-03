@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=lightblue&height=350&section=header&text=ChoHyeRyung&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=350&section=header&text=ChoHyeRyung&fontSize=70&animation=twinkling)
 
 <p align="center"> 
   <h4>ᕼEᒪᒪO, Welcome To my github</h4>
