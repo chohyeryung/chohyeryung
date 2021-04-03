@@ -23,4 +23,4 @@
 </p>
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=soft&text=Hi&color=random)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=soft&text=Thank%5you%5for%5coming!&color=random)
