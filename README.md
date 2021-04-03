@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=350&section=header&text=ChoHyeRyung&fontSize=70&animation=twinkling)
 
-
-
 <p align="center"> 
   <h4>ᕼEᒪᒪO, Welcome To my github</h4>
   <h4>A passionate web developer from Korea</h4>
@@ -25,4 +23,4 @@
 </p>
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=soft)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=soft&text=Hi&color=random)
