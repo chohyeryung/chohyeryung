@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=350&section=header&text=ChoHyeRyung&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#bdeef9&height=350&section=header&text=ChoHyeRyung&fontSize=70&animation=twinkling)
 
 <p align="center"> 
   <h4>ᕼEᒪᒪO, Welcome To my github</h4>
@@ -23,4 +23,4 @@
 </p>
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=soft&text=Thank%5you%5for%5coming!&color=random)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=soft&text=Thank_you_for_coming!&color=random)
