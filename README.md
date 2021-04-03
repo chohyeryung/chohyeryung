@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=ChoHyeRyung&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=350&section=header&text=ChoHyeRyung&fontSize=70&animation=twinkling)
 
 
 
