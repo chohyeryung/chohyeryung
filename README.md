@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=350&section=header&text=ChoHyeRyung&fontSize=80)
+<center>
 #### ᕼEᒪᒪO, Welcome To my github
 #### A passionate web developer from Korea
 
@@ -22,4 +23,5 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 #### I have a posture that I'm constantly trying to learn, and I'm going to do this.
+</center>
 ![footer](https://capsule-render.vercel.app/api?section=footer)
