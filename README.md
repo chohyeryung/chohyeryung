@@ -23,4 +23,4 @@
 </p>
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=soft&text=Thank_you_for_coming!&color=random&height=200)
+
