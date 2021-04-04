@@ -22,8 +22,8 @@
 <h4>I have a posture that I'm constantly trying to learn, and I'm going to do this.</h4>
 </p>
 
-📞 ### Connects
+### 📞 Connects
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xx@gmail.com)](mailto:chohyeryungcho@gmail.com)
-cs
+
 
 
