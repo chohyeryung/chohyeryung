@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=350&section=header&text=ChoHyeRyung&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=ChoHyeRyung&fontSize=60&animation=twinkling)
 
 <p align="center"> 
   <h4>ᕼEᒪᒪO, Welcome To my github</h4>
@@ -22,5 +22,8 @@
 <h4>I have a posture that I'm constantly trying to learn, and I'm going to do this.</h4>
 </p>
 
+📞 ### Connects
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xx@gmail.com)](mailto:chohyeryungcho@gmail.com)
+cs
 
 
