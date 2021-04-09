@@ -16,6 +16,7 @@
 </p>
 
 ![ChoHyeRyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=chohyeryung&show_icons=true&theme=merko)
+[![Hits](https://hits.chohyeryung.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.chohyeryung.com)                    
 
 ### 📞 Connects
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xx@gmail.com)](mailto:chohyeryungcho@gmail.com)
