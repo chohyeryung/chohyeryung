@@ -4,7 +4,7 @@
  
 </p>
 
-![ChoHyeRyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=chohyeryung&show_icons=true&theme=Gradient)
+![ChoHyeRyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=chohyeryung&show_icons=true&theme=solarized-light)
                                    
 
 ### 📞 Connects
