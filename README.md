@@ -1,6 +1,7 @@
 
 
-### 🌱 I’m currently learning 
+### 🌱 I Love learning ...
+<img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
  
 </p>
 
