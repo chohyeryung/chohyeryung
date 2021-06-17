@@ -36,4 +36,4 @@
 #### I have a posture that I'm constantly trying to learn, and I'm going to do this.
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=footer&text=ThankYou&fontSize=40&animation=twinkling)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=footer&text=ThankYou&fontSize=40&animation=twinkling) -->
