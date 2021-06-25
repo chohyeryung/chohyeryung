@@ -1,5 +1,5 @@
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I'm Cho hye ryung
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I'm Cho hye ryung. I'm growing up with much error!
 
 
 ### 🌱 I Love learning ...
