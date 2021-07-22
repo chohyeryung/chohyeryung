@@ -77,7 +77,9 @@
 
 ## 🔥 GitHub Streak Stats
 <p align="center">
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chohyeryung&theme=vue&hide_border=true)](https://git.io/streak-stats)
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="chohyeryung's streak" src="https://github-readme-streak-stats.herokuapp.com/?                user=chohyeryung&theme=vue&hide_border=true"/>
+    </a>
 </p>
 
 <br>
