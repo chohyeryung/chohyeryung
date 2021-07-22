@@ -83,12 +83,8 @@
   </a>
 </p>
 
-## ㅇㅇㅇ
 
-* BOJ: [chohyeryung](http://icpc.me/chohyeryung)
-  * solvedac: [chohyeryung](https://solved.ac/profile/chohyeryung)
-  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chohyeryung)](https://solved.ac/chohyeryung)
+<!--[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chohyeryung)](https://solved.ac/chohyeryung) -->
 
 ## 🏃🏻‍♀️ Thank you !
                      
