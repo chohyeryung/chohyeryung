@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love Animals 🐶🐱🐼
 <br>
 
-## ⌚ Connect Me
+## 🕶 Connect Me
 - [velog](https://velog.io/@boori)
 - [Instagram](https://www.instagram.com/?hl=ko)
 <br>
