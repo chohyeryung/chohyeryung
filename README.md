@@ -24,18 +24,6 @@
 <a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
                      
-<br>
-
-## 🔥 GitHub Streak Stats
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="chohyeryung's streak" src="http://github-readme-streak-stats.herokuapp.com?user=chohyeryung&theme=vue&hide_border=true)](https://git.io/streak-stats"/>
-  </a>
-</p>
-
-
-<!--[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chohyeryung)](https://solved.ac/chohyeryung) -->
 
 ## 🏃🏻‍♀️ Thank you !
                      
