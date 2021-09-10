@@ -11,7 +11,6 @@
 
 ## 🕶 Connect Me
 - [velog](https://velog.io/@boori)
-- [Instagram](https://www.instagram.com/?hl=ko)
 <br>
 
 ## 👨‍💻 Learning Languages:
@@ -23,7 +22,7 @@
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" /></a>&nbsp;
 <a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
-                     
+<br>                     
 
 ## 🏃🏻‍♀️ Thank you !
                      
